@@ -19,7 +19,7 @@ class CalendarsController < ApplicationController
   end
 
 
-  def getWeek
+  def get_week
     require "date"
     
 
